@@ -1,4 +1,4 @@
-# RealPayTag Backend
+# Pharos PayTag Backend
 
 A comprehensive blockchain-based payment and asset management system built on Pharos Blockchain (Pharos). This project includes smart contracts for stablecoin management, payroll processing, digital identity management through PayTags, real-world asset registry, and airtime conversion.
 
