@@ -1,0 +1,13 @@
+2025-05-02 21:26:37 error: Unhandled Rejection: 
+2025-05-02 21:33:00 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:35:08 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:42:35 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:43:25 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:43:40 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:44:17 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:44:56 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:44:59 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:48:23 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:50:14 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:50:27 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
+2025-05-02 21:52:58 error: Unhandled Rejection: network does not support ENS (operation="getEnsAddress", info={ "network": { "chainId": "50002", "name": "custom" } }, code=UNSUPPORTED_OPERATION, version=6.13.7)
